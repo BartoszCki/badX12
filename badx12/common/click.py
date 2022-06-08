@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from collections import Iterable
+from typing import Iterable
 
 import click
 
